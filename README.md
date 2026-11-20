@@ -1,7 +1,7 @@
 # HTML and CSS Introduction Lab — BCS352
 
-**Student:** Rahasy Mishra  
-**Roll No.:** BCS2025548  
+**Student:** Manjeet Verma
+**Roll No.:** BCS2025371
 **Programme:** B.Tech CSE — Second Year  
 **University:** Invertis University, Bareilly  
 **Lab:** HTML and CSS Introduction Lab (BCS352)
@@ -109,7 +109,7 @@ No external libraries or build tools are required.
 Before your first commit, set your own name and email:
 
 ```bash
-git config --global user.name "Rahasy Mishra"
+git config --global user.name "Manjeet Verma"
 git config --global user.email "YOUR-EMAIL-OR-GITHUB-NOREPLY-EMAIL"
 ```
 
